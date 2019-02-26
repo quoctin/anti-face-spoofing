@@ -37,7 +37,7 @@ On Matlab, ```V = VideoReader(video_path)```
 Other parameters are described in *LDP_TOP_4th_hist_ff.m*
 
 In order to proceed to training and testing step, one must download LibSVM
-from ![here](https://www.csie.ntu.edu.tw/~cjlin/libsvm/index.html).
+from [here](https://www.csie.ntu.edu.tw/~cjlin/libsvm/index.html).
 
 To prepare for the training , you must extract labels and features from the training set,
 save as a file in which each row corresponds to a video and has the
